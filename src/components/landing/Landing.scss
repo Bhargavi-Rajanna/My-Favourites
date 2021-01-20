@@ -1,0 +1,12 @@
+.landing-page{
+    padding:25px;
+    text-align: left;
+}
+
+@media screen and (min-width: 850px){
+    .landing-page{
+        padding-top: 50px;
+        margin-left: 50%;
+        transform: translate(-50%, 0%);
+    }
+}

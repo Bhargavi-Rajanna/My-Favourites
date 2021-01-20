@@ -1,0 +1,93 @@
+{
+    "1": {
+      "id": 1,
+      "userName": "user1",
+      "userImg": "./images/user1.jpeg",
+      "productImg": "./images/lipstic.jpeg",
+      "title": "Stockout Fenty Beauty by Rihanna",
+      "price": "AED 200",
+      "likes": 100,
+      "description": "Rihanna's first red lipstick under her Fenty Beauty label is not only universally flattering, but once you swipe it on, the matte formula will last until you decide to wipe it off at the end of the night.",
+      "hastags": [
+        "fenty",
+        "red",
+        "Rihanna"
+      ],
+      "comments": [
+        "awesome",
+        "love it",
+        "must have",
+        "red is love"
+      ],
+      "fav": false
+    },
+    "2": {
+      "id": 2,
+      "userName": "user2",
+      "userImg": "./images/user2.jpeg",
+      "productImg": "./images/phonecase.jpeg",
+      "title": "Cute Case Cover for iPhone",
+      "price": "AED 51.80",
+      "likes": 10,
+      "description": "Crystal Clear Art Panited Pattern Design Soft & Flexible TPU Ultra-Thin Shockproof Transparent Girls/Women TPU Case Cover for iPhone.",
+      "hastags": [
+        "cover",
+        "iphone",
+        "cute",
+        "mobilecase"
+      ],
+      "comments": [
+        "cute covers",
+        "love it",
+        "must have"
+      ],
+      "fav": false
+    },
+    "3": {
+      "id": 3,
+      "userName": "user3",
+      "userImg": "./images/user3.jpeg",
+      "productImg": "./images/marvel.jpeg",
+      "title": "Piece Canvas Wall Art Movie Poster",
+      "price": "AED 86",
+      "likes": 2500,
+      "description": "Stretched and Framed Ready to Hang Wall Art Movie Poster",
+      "hastags": [
+        "superheros",
+        "marvel",
+        "avengers",
+        "captainAmerica",
+        "hulk",
+        "ironMan"
+      ],
+      "comments": [
+        "Avengers for life",
+        "best buy",
+        "<3 <3"
+      ],
+      "fav": false
+    },
+    "4": {
+      "id": 4,
+      "userName": "user4",
+      "userImg": "./images/user4.jpeg",
+      "productImg": "./images/skincare.jpeg",
+      "title": "Best Skincare Routine",
+      "price": "AED 450",
+      "likes": 10000,
+      "description": "Skin looks radiant and plumped with hydration—all the way through till morning.",
+      "hastags": [
+        "skincare",
+        "nomakeup",
+        "glow",
+        "selflove",
+        "hydrated"
+      ],
+      "comments": [
+        "beautiful skin",
+        "love love love",
+        "skin care for everyone"
+      ],
+      "fav": false
+    }
+  }

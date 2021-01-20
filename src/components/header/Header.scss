@@ -1,0 +1,40 @@
+.header{
+    background-color:	#fd629d;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+    bottom:0;
+    height:70px;
+    padding:0 15px;
+    display: flex;
+    flex-flow: row ;
+    justify-content: space-between;
+
+    .home{
+        padding: 12px;
+        height:40px;
+       
+    }
+    .heart{
+        padding: 10px;
+        width: 90px;
+       height:70px;
+    }
+}
+
+
+@media screen and (min-width: 650px){
+    .header{
+        top:0; 
+
+        .home{
+            padding: 18px;
+            height:40px
+        }
+        .heart{
+            padding:18px;
+            width: 60px;
+        }
+    }
+}
