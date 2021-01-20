@@ -16,3 +16,4 @@ The data json file gets updated as and when the user adds or deletes the favouri
 On clicking the product list image on the homepage, the product is added to favourites and the heart icon turns black to indicate its favourite item.
 On clicking the description below the image, loads the full description of the product.
 You can hide/view comments on click of the comments
+
