@@ -2,8 +2,8 @@
 A simple favourite landing page and a fouristes listing page app. This app lets you favourite list from a landing page and then the favourite page will show you the list of items you have favourited. 
 
 # Execution Instructions
-Download the zip folder 
-Go to the project folder on your terminal and run  : npm install.
+*Download the zip folder 
+*Go to the project folder on your terminal and run  : npm install.
 cd server 
 To start the server : PORT=8000 node bin/www and leave server on this terminal tab running
 Open new terminal tab and go to the project folder and run npm run start. Running this command loads the app in : (http://localhost:3000/)
